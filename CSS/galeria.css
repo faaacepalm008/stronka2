@@ -1,0 +1,19 @@
+img{
+    height: 160px;
+    width: 280px;
+    float: left;
+    margin: 1%;
+    box-sizing: border-box;
+}
+#image{
+    margin-left: 6%;
+}
+#naglowek{
+    text-align:center;
+}
+@media screen and (max-width: 768px)
+{
+    img{
+        width: 93%;
+    }
+}

@@ -1,0 +1,18 @@
+button{
+    border: none;
+    text-align: center;
+    cursor: pointer;
+}
+.point{
+    cursor: pointer;
+}
+button
+{
+    background-color: #ffffff; color: rgb(0, 0, 0);
+    width: 100px;
+    border-radius: 4px;
+}
+button:hover {
+    background-color: #000000; 
+    color: rgb(255, 255, 255);
+}
